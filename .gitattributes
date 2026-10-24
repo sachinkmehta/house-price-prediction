@@ -1,2 +1,0 @@
-"house_price_model.pkl filter=lfs diff=lfs merge=lfs -text" 
-house_price_model.pkl filter=lfs diff=lfs merge=lfs -text lockable
